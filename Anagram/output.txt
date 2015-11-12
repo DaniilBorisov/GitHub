@@ -1,0 +1,50 @@
+"desert", "dessert" --> false
+"I am Lord Voldemort", "Tom Marvolo Riddle" --> true
+"Elvis", "lives" --> true
+"dormitory", "dirty room" --> true
+"the eyes", "they see" --> true
+"I spared", "a spider" --> true
+"car has", "a crash" --> true
+"fingertips", "finest grip" --> true
+"television ads", "enslave idiots" --> true
+"disc", "is cd" --> true
+"A diet", "I'd eat" --> true
+"young lad", "an old guy" --> true
+"asteroid threats", "disaster to earth" --> true
+"meal for one", "for me alone" --> true
+"my ideal time", "Immediately" --> true
+"I think therefore I am", "I fear to think I'm here" --> true
+"a gentleman", "elegant man" --> true
+"rats and mice", "in cat's dream" --> true
+"a perfectionist", "I often practice" --> false
+"orators hate", "a sore throat" --> true
+"coins kept", "in pockets" --> true
+"astronomer", "moon starer" --> true
+"astronomers", "no more stars" --> true
+"action man", "cannot aim" --> true
+"school student", "tends to slouch" --> true
+"debit card", "bad credit" --> true
+"certainly not", "can't rely on it" --> true
+"schoolmaster", "the classroom" --> true
+"clothes pins", "so let's pinch" --> true
+"garbage man", "bag manager" --> true
+"postmaster", "stamp store" --> true
+"heavy rain", "Hire a navy" --> true
+"a decimal point", "I'm a dot in place" --> true
+"the Morse code", "Here come dots" --> true
+"eleven plus two", "twelve plus one" --> true
+"statue of liberty", "built to stay free" --> true
+"conversation", "voices rant on" --> true
+"video game", "give a demo" --> true
+"drum solo", "so loud Mr." --> true
+"timetable", "Bet I'm late" --> true
+"sweep the floor", "too few helpers" --> true
+"older and wiser", "I learned words" --> true
+"anti-democratic", "dictator came in" --> true
+"intensive care", "I can't even rise" --> true
+"'That's one small step for a man; one giant leap for mankind.' Neil Armstrong ", "Thin man ran... makes a large stride... left planet... pins flag on moon... on to Mars" --> true
+"", "" --> false
+"12345", "3#$>" --> false
+"1>NEO<!", "!#oNe*" --> true
+"A", "a" --> true
+"To be or not to be: that is the question; whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles and by opposing, end them?", "Is a befitting quote from one of Shakespeare's greatest tragedies? But why won't Hamlet's inspiring motto toss our stubborn hero's tortuous battle for life, on one hand, and death, on another?" --> true
